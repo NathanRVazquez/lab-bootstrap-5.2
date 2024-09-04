@@ -1,1 +1,44 @@
 /* Add custom css styles here */
+div>img{
+    border-radius: 65%;
+}
+
+.cookie-title{
+padding:3% 0 3% 0;
+}
+
+.header-text{
+    position: absolute;
+    margin:0 auto;
+    background-color:rgba(23, 23, 23, 0.749);    
+    /* padding-top:200px; */
+    /* top:-100px; */
+    max-width: fit-content;
+    text-align: center;
+    align-items: center;
+    margin-inline:auto;
+    margin-right:auto;
+    align-self: center;
+    justify-content: center;
+    inset:0;
+    top:-60%;
+    border-radius: 20px;
+    color:white;
+    padding:5px;
+    /* float:right; */
+    
+
+}
+.peanut-butter, .chocolate-chip, .oatmeal,.mint-chocolate{
+    text-align: center;
+}
+
+#aboutus{
+    padding-top:3%;
+    padding-bottom:3%;
+    
+}
+
+main{margin-bottom:3%;}
+
+#aboutus-color{background-color: rgba(232, 232, 232, 0.359);}
